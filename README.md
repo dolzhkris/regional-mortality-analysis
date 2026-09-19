@@ -42,7 +42,7 @@ The project was developed as part of university work during the fourth year of u
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dolzhkris/uzbekistan-regional-mortality-analysis.git
+git clone https://github.com/dolzhkris/regional-mortality-analysis.git
 ```
 
 2. Install the required libraries:
